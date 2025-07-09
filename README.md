@@ -4,7 +4,7 @@ This is a functional REST API built using **Express.js**. It allows users to reg
 
 ---
 
-##  What You Can Do With This API
+##  What Can Do With This API
 
 - View a list of all books available in the shop
 - Get detailed information about a book using ISBN
