@@ -1,6 +1,6 @@
 ## BookReviews-API-Express
 
-This is a simple and functional REST API built using **Express.js**. It allows users to register, log in, and manage book reviews. The project was developed as part of a Coursera peer-graded assignment, covering key concepts like routing, middleware, authentication using sessions & JWT, and asynchronous JavaScript using callbacks and promises.
+This is a functional REST API built using **Express.js**. It allows users to register, log in, and manage book reviews. The project was developed as part of a Coursera peer-graded assignment, covering key concepts like routing, middleware, authentication using sessions & JWT, and asynchronous JavaScript using callbacks and promises.
 
 ---
 
